@@ -1,0 +1,11 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "demo",
+        "password": "demo1234",
+        "token": "mocked-token-value"
+      }
+    ]
+  }
+  
